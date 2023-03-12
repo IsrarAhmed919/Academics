@@ -3,7 +3,7 @@
 ## Contents
 1. [Introduction](#introduction)
 2. [DataSet](#DataSet)
-3. [Feature Extractor and Machine Learning Algorithms](#Feature Extractor and Machine Learning Algorithms)
+3. [Feature Extractor and Machine Learning Algorithms](#FeatureExtractorandMachineLearningAlgorithms)
 6. [Authors](#authors)
  
  ## Introduction
