@@ -1,6 +1,7 @@
 # Image Classification using Feature Extraction and Machine Learning
 
-##Contents  
+## Contents
+
   . Introduction
   . Datasets
   . Feature Extractor
