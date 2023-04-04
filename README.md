@@ -25,7 +25,13 @@ We have used SIFT as feature extractor and used K-Means to cluster the similar f
 
 ## Results
 Here are some snaps of the results that we got!
+### Dataset 1
 ![image](https://user-images.githubusercontent.com/62650665/229735298-2a29c306-bd4b-4bdf-a55f-332974a09ca5.png)
+![Screenshot from 2023-04-04 13-36-09](https://user-images.githubusercontent.com/62650665/229736247-f1bf27d0-05c2-4663-a0d9-53c5277c6ccd.png)
+### Dataset 2
+![Screenshot from 2023-04-04 13-36-26](https://user-images.githubusercontent.com/62650665/229736341-c420b52c-b5c9-42d5-a2ef-b3c314b1e4f9.png)
+![Screenshot from 2023-04-04 13-36-34](https://user-images.githubusercontent.com/62650665/229736462-bbf4a249-1014-4020-b74c-4045304ebdf0.png)
+
 
 
 ## Authors
