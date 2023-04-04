@@ -4,7 +4,7 @@
 1. [Introduction](#introduction)
 2. [DataSet](#DataSet)
 3. [Feature Extractor and Machine Learning Algorithms](#FeatureExtractorandMachineLearningAlgorithms)
-4. [Results] (#Results)
+4. [Results](#Results)
 6. [Authors](#authors)
  
  ## Introduction
