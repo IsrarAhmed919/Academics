@@ -4,6 +4,7 @@
 1. [Introduction](#introduction)
 2. [DataSet](#DataSet)
 3. [Feature Extractor and Machine Learning Algorithms](#FeatureExtractorandMachineLearningAlgorithms)
+4. [Results] (#Results)
 6. [Authors](#authors)
  
  ## Introduction
@@ -21,6 +22,11 @@ For this project, two datasets are used. One conatined 64 images with 4 classes 
 
 ## Feature Extractor and Machine Learning Algorithms
 We have used SIFT as feature extractor and used K-Means to cluster the similar features. SVM and Random forests are used for the classification. In the code you need to add the paths to the train and test image folder if dataset is already splitted other wise use DataSet 2 portion and just add the images folder path in it. You need to specify the images classes names, in the manner already defined in the code, in the variable class_indices. While i have used string processing to get the class name for each image using folder name, so set that according to the path settings. Another important thing to mention is that choose the value of K while calling create clusters function carefully, that can effect performance and efficiency as well.
+
+## Results
+Here are some snaps of the results that we got!
+![image](https://user-images.githubusercontent.com/62650665/229735298-2a29c306-bd4b-4bdf-a55f-332974a09ca5.png)
+
 
 ## Authors
 Israr Ahmed <iahmed.msds22seecs@seecs.edu.pk>
